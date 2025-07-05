@@ -19,7 +19,7 @@
 Your LinkedIn profile is your digital first impression. But:
 - Most people never read their own PDF export
 - Buzzwords dilute your actual impact
-- Recruiters skim for keywords—and this shows what stands out
+- Recruiters skim for keywords, and this shows what stands out
 
 This tool helps you **see your profile the way a recruiter or ATS might**.
 
